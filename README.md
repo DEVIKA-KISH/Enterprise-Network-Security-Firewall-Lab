@@ -2,9 +2,9 @@
 
 **Status:** Planned; implementation and testing pending.
 
-A portfolio lab plan for pfSense firewall policies, network segmentation, traffic inspection, and authorized validation.
+A lab plan for pfSense firewall policies, network segmentation, traffic inspection, and authorized validation.
 
-> This repository currently contains documentation templates, not evidence of a completed deployment. Add results only after performing the tests yourself.
+
 
 ## Objectives
 - Configure isolated WAN, LAN, and DMZ virtual networks.
